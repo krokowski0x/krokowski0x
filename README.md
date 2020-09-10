@@ -1,6 +1,6 @@
 ## Hi there, let me introduce myself! 👋
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<img src="https://github.com/krokowski0x/krokowski0x/raw/badges-poc/img/quality_content.jpg" align="right" height="200" />
 I'm a Fullstack Developer, currently working at [Netguru](https://www.netguru.com/), while being a senior at [Wroclaw University of Technology and Science](https://pwr.edu.pl/en/), majoring in Robotic and Control Systems and minoring in Computer Science. This fall I'm focusing on writing my Engineering Thesis and getting Amazon AWS Ceritifications!
 
 ### What I work with on daily basis
