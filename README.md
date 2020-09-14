@@ -1,7 +1,7 @@
 ## Hi there, let me introduce myself! 👋
 
-<img src="https://github.com/krokowski0x/krokowski0x/raw/badges-poc/img/quality_content.jpg" align="right" height="200" />
-I'm a Fullstack Developer, currently working at <a href="https://www.netguru.com/" target="_blank">Netguru</a>, while being a senior at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotic and Control Systems and minoring in Computer Science. This fall I'm focusing on writing my Engineering Thesis and learning to become <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">AWS Certified Solutions Architect – Associate!</a>
+<img src="https://github.com/krokowski0x/krokowski0x/raw/master/img/quality_content.jpg" align="right" height="200" />
+I'm a Fullstack Developer, currently working at <a href="https://www.netguru.com/" target="_blank">Netguru</a>, while being a senior at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotics and Control Systems and minoring in Computer Science. This fall I'm focusing on writing my Engineering Thesis and learning to become <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">AWS Certified Solutions Architect – Associate!</a>
 
 ### Stack I currently work with on daily basis:
 <p>
