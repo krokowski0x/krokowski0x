@@ -1,7 +1,7 @@
 ## Hi there, let me introduce myself! 👋
 
 <img src="https://github.com/krokowski0x/krokowski0x/raw/master/img/quality_content.jpg" align="right" height="200" />
-I'm a Fullstack Developer, currently working at <a href="https://www.netguru.com/" target="_blank">Netguru</a>, while being a senior at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotics and Control Systems and minoring in Computer Science. This fall I'm focusing on writing my Engineering Thesis and learning to become <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">AWS Certified Solutions Architect – Associate!</a>
+I'm a Full Stack Engineer and <a href="https://www.youracclaim.com/badges/19376e53-c444-4d9c-85f4-8d18a6ea93de" target="_blank">AWS Certified Solutions Architect – Associate</a>. This winter I'm focusing on wrapping up my degree at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotics and Control Systems and minoring in Computer Science. 
 
 ### Stack I currently work with on daily basis:
 <p>
@@ -45,5 +45,5 @@ I'm a Fullstack Developer, currently working at <a href="https://www.netguru.com
 ### 📫 You can find me on
   <a href="https://github.com/krokowski0x" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/krokowski0x" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="hhttps://www.quora.com/profile/Rafa%C5%82-Kr%C3%B3kowski-1" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/quora-%23B92B27.svg?&style=for-the-badge&logo=quora&logoColor=white" /></a>
+    <a href="https://www.quora.com/profile/Rafa%C5%82-Kr%C3%B3kowski-1" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/quora-%23B92B27.svg?&style=for-the-badge&logo=quora&logoColor=white" /></a>
   <a href="https://medium.com/@krokowski.dx" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
