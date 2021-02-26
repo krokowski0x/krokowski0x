@@ -1,7 +1,7 @@
 ## Hi there, let me introduce myself! 👋
 
 <img src="https://github.com/krokowski0x/krokowski0x/raw/master/img/quality_content.jpg" align="right" height="200" />
-I'm a Full Stack Engineer and <a href="https://www.youracclaim.com/badges/19376e53-c444-4d9c-85f4-8d18a6ea93de" target="_blank">AWS Certified Solutions Architect – Associate</a>. This winter I'm focusing on wrapping up my degree at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotics and Control Systems and minoring in Computer Science. 
+I'm a Full Stack Engineer and <a href="https://www.youracclaim.com/badges/19376e53-c444-4d9c-85f4-8d18a6ea93de" target="_blank">AWS Certified Solutions Architect – Associate</a>. I've also just wrapped up my degree at <a href="https://pwr.edu.pl/en/" target="_blank">Wroclaw University of Technology and Science</a>, majoring in Robotics and Control Systems and minoring in Computer Science. 
 
 ### Stack I currently work with on daily basis:
 <p>
